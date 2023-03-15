@@ -1,16 +1,14 @@
 {
-  "name": "givewp-design-system",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/impress-org/givewp-design-system.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/impress-org/givewp-design-system/issues"
-  },
-  "homepage": "https://github.com/impress-org/givewp-design-system#readme"
+    "name": "@givewp/design-system",
+    "version": "1.0.0",
+    "description": "A collection of development elements which correspond to the GiveWP design system.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/impress-org/givewp-design-system.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/impress-org/givewp-design-system/issues"
+    },
+    "homepage": "https://github.com/impress-org/givewp-design-system#readme"
 }
