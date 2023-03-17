@@ -1,0 +1,45 @@
+/**
+ * Use both the font-size and font-weight variables to set the font size and weight of your text:
+ *
+ *  h1.display-xl {
+ *      font-size: var(--givewp-font-size-display-xl);
+ *      font-weight: var(--givewp-font-weight-display-xl);
+ *  }
+ */
+:root {
+    --givewp-font-size-display-xl: 6rem;
+    --givewp-font-weight-display-xl: semi-bold;
+
+    --givewp-font-size-display-lg: 4.5rem;
+    --givewp-font-weight-display-lg: semi-bold;
+
+    --givewp-font-size-heading-xl: 4rem;
+    --givewp-font-weight-heading-xl: bold;
+
+    --givewp-font-size-heading-lg: 2.5rem;
+    --givewp-font-weight-heading-lg: semi-bold;
+
+    --givewp-font-size-heading-md: 2.25rem;
+    --givewp-font-weight-heading-md: semi-bold;
+
+    --givewp-font-size-heading-sm: 1.5rem;
+    --givewp-font-weight-heading-sm: semi-bold;
+
+    --givewp-font-size-headline-lg: 1.25rem;
+    --givewp-font-weight-headline-lg: extra-bold;
+
+    --givewp-font-size-headline-md: 1rem;
+    --givewp-font-weight-headline-md: extra-bold;
+
+    --givewp-font-size-headline-sm: 0.75rem;
+    --givewp-font-weight-headline-sm: extra-bold;
+
+    --givewp-font-size-paragraph-lg: 1rem;
+    --givewp-font-weight-paragraph-lg: medium;
+
+    --givewp-font-size-paragraph-md: 0.75rem;
+    --givewp-font-weight-paragraph-md: medium;
+
+    --givewp-font-size-paragraph-sm: 0.5rem;
+    --givewp-font-weight-paragraph-sm: medium;
+}

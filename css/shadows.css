@@ -1,0 +1,29 @@
+:root {
+    --givewp-shadow-xs: 0 1px 2px var(--givewp-grey-50);
+    --givewp-shadow-sm: 0 2px 4px var(--givewp-grey-50);
+    --givewp-shadow-md: 0 4px 8px var(--givewp-grey-50);
+    --givewp-shadow-lg: 0 12px 24px var(--givewp-grey-50);
+    --givewp-shadow-xl: 0 16px 32px var(--givewp-grey-50);
+    --givewp-shadow-inner: inset 0 2px 4px var(--givewp-grey-50);
+
+    --givewp-shadow-xs-green: 0 1px 2px var(--givewp-green-50);
+    --givewp-shadow-sm-green: 0 2px 4px var(--givewp-green-50);
+    --givewp-shadow-md-green: 0 4px 8px var(--givewp-green-50);
+    --givewp-shadow-lg-green: 0 12px 24px var(--givewp-green-50);
+    --givewp-shadow-xl-green: 0 16px 32px var(--givewp-green-50);
+    --givewp-shadow-inner-green: inset 0 2px 4px var(--givewp-green-50);
+
+    --givewp-shadow-xs-blue: 0 1px 2px var(--givewp-blue-50);
+    --givewp-shadow-sm-blue: 0 2px 4px var(--givewp-blue-50);
+    --givewp-shadow-md-blue: 0 4px 8px var(--givewp-blue-50);
+    --givewp-shadow-lg-blue: 0 12px 24px var(--givewp-blue-50);
+    --givewp-shadow-xl-blue: 0 16px 32px var(--givewp-blue-50);
+    --givewp-shadow-inner-blue: inset 0 2px 4px var(--givewp-blue-50);
+
+    --givewp-shadow-xs-orange: 0 1px 2px var(--givewp-orange-50);
+    --givewp-shadow-sm-orange: 0 2px 4px var(--givewp-orange-50);
+    --givewp-shadow-md-orange: 0 4px 8px var(--givewp-orange-50);
+    --givewp-shadow-lg-orange: 0 12px 24px var(--givewp-orange-50);
+    --givewp-shadow-xl-orange: 0 16px 32px var(--givewp-orange-50);
+    --givewp-shadow-inner-orange: inset 0 2px 4px var(--givewp-orange-50);
+}
